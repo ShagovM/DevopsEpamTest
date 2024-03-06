@@ -1,0 +1,6 @@
+Nginx pronounced “engine x” is an open-source,
+ high-performance HTTP and reverse proxy server
+ responsible for handling the load of some of the
+ largest sites on the Internet. It can be used as
+ a standalone web server, load balancer, content
+ cache, and reverse proxy for HTTP and non-HTTP servers.
