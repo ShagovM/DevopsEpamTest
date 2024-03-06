@@ -1,6 +1,12 @@
 Nginx pronounced “engine x” is an open-source,
- high-performance HTTP and reverse proxy server
- responsible for handling the load of some of the
- largest sites on the Internet. It can be used as
- a standalone web server, load balancer, content
- cache, and reverse proxy for HTTP and non-HTTP servers.
+high-performance HTTP and reverse proxy server
+responsible for handling the load of some of the
+largest sites on the Internet. It can be used as
+a standalone web server, load balancer, content
+cache, and reverse proxy for HTTP and non-HTTP servers.
+
+A server block is an Nginx directive that defines settings 
+for a specific domain, allowing you to run more than one 
+website on a single server. For each website, you can set 
+the site document root (the directory which contains the website files), 
+create a separate security policy, use different SSL certificates, and much more.
