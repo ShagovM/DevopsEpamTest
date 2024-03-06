@@ -1,0 +1,4 @@
+This article describes how to set up Nginx
+ server blocks on Ubuntu 22.04. You’ll learn how to
+ set up multiple websites on a single
+ server and customize each site’s settings to suit your needs.
