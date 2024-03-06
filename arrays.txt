@@ -1,0 +1,8 @@
+Ensure that you have met the following requirements before continuing:
+
+The domain name points to your public server IP.
+Nginx is installed on your Ubuntu system.
+You are logged in as root or user with sudo privileges .
+It is worth noting that in certain articles related to web
+ servers, the term “Server Blocks” is referred to as a
+ “Virtual host”. A virtual host is an Apache term.
